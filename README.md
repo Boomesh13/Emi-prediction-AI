@@ -45,7 +45,7 @@ streamlit pandas numpy matplotlib seaborn plotly mlflow joblib scikit-learn
 
 📈 MLflow Tracking
 mlflow ui --port 5007
-Then open → http://localhost:5006
+Then open → http://localhost:5007
 🌐 Deployment on Streamlit Cloud
 Push your repository to GitHub
 
@@ -66,5 +66,7 @@ models/bestmodel_emi_regressor.pkl
 emi_prediction_dataset.csv
 
 🖼️ Screenshots(ML Flow UI)
+
+<img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/57e014f8-446f-4fe3-9de0-8e3c4b3840d0" />
 
 
