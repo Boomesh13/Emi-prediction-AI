@@ -1,4 +1,4 @@
-#💵 Emi-prediction-AI
+💵 Emi-prediction-AI
 
 An intelligent Streamlit web app that predicts a user's EMI eligibility, identifies High-Risk applicants, and estimates their maximum affordable EMI using Machine Learning models trained on real-world financial data.
 
@@ -68,5 +68,18 @@ emi_prediction_dataset.csv
 🖼️ Screenshots(ML Flow UI)
 
 <img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/57e014f8-446f-4fe3-9de0-8e3c4b3840d0" />
+<img width="1885" height="920" alt="image" src="https://github.com/user-attachments/assets/fb4be35d-9fdc-4ffe-bedf-9250a25e176b" />
+comparision of Models
+<img width="1861" height="912" alt="image" src="https://github.com/user-attachments/assets/bea26efb-7e19-4c0a-9d3f-54b19d61541f" />
+<img width="1914" height="1017" alt="image" src="https://github.com/user-attachments/assets/2e434bd9-f2a4-485b-98ee-450fa99bf75c" />
+🖼️ Screenshots(Sreamlit)
+<img width="1908" height="1012" alt="image" src="https://github.com/user-attachments/assets/df515fde-9919-497a-8ef3-c32c588b14e8" />
+<img width="1916" height="974" alt="image" src="https://github.com/user-attachments/assets/9608528f-6471-498a-b8de-ab8d328d070a" />
+🧑‍💻 Author
+Boomeswaran k
+Boomi080502@gmail.com
+
+
+
 
 
