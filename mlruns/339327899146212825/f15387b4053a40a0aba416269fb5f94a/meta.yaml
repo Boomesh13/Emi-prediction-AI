@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/339327899146212825/f15387b4053a40a0aba416269fb5f94a/artifacts
+end_time: 1765908386937
+entry_point_name: ''
+experiment_id: '339327899146212825'
+lifecycle_stage: active
+run_id: f15387b4053a40a0aba416269fb5f94a
+run_name: XGBoost Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765908289409
+status: 3
+tags: []
+user_id: boomesh

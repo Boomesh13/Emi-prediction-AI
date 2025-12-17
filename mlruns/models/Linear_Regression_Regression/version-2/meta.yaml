@@ -1,0 +1,15 @@
+creation_timestamp: 1765908581545
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765908581545
+model_id: m-c778b52bf8e54612b9f900f27f2b5628
+name: Linear_Regression_Regression
+run_id: b6aeaa281a98422b863b4fc654e6028b
+run_link: ''
+source: models:/m-c778b52bf8e54612b9f900f27f2b5628
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/908098939557329079/models/m-c778b52bf8e54612b9f900f27f2b5628/artifacts
+user_id: null
+version: 2

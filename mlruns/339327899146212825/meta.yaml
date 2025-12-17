@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/339327899146212825
+creation_time: 1765123219290
+experiment_id: '339327899146212825'
+last_update_time: 1765123219290
+lifecycle_stage: active
+name: EMI_Classification_Model

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/908098939557329079/08add436a7b446eea435ff9564f2a413/artifacts
+deleted_time: 1765908981940
+end_time: 1765821734901
+entry_point_name: ''
+experiment_id: '908098939557329079'
+lifecycle_stage: deleted
+run_id: 08add436a7b446eea435ff9564f2a413
+run_name: XGBoost Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765821705460
+status: 3
+tags: []
+user_id: boomesh

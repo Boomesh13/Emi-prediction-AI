@@ -1,0 +1,15 @@
+creation_timestamp: 1765908504930
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765908504930
+model_id: m-f67874c07093433094d181e184925364
+name: XGBoost_Classifier_Classification_Production
+run_id: f15387b4053a40a0aba416269fb5f94a
+run_link: ''
+source: models:/m-f67874c07093433094d181e184925364
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/339327899146212825/models/m-f67874c07093433094d181e184925364/artifacts
+user_id: null
+version: 2

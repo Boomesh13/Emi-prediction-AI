@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/339327899146212825/f6ac616698d64bc4bc37a0ee97f39ffa/artifacts
+deleted_time: 1765908165939
+end_time: 1765820998114
+entry_point_name: ''
+experiment_id: '339327899146212825'
+lifecycle_stage: deleted
+run_id: f6ac616698d64bc4bc37a0ee97f39ffa
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765820916398
+status: 3
+tags: []
+user_id: boomesh

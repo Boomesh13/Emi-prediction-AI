@@ -1,0 +1,15 @@
+creation_timestamp: 1765908288925
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765908288925
+model_id: m-8c1d5d0bfcad42c5ab6e9383c56aa1ad
+name: Random_Forest_Classification
+run_id: e2dc713ff71f4ad19c35325d93eebf70
+run_link: ''
+source: models:/m-8c1d5d0bfcad42c5ab6e9383c56aa1ad
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/339327899146212825/models/m-8c1d5d0bfcad42c5ab6e9383c56aa1ad/artifacts
+user_id: null
+version: 2

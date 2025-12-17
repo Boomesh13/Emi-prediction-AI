@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/908098939557329079/models/m-2cea8fadb543468c816968675fa2c04a/artifacts
+creation_timestamp: 1765909871560
+experiment_id: '908098939557329079'
+last_updated_timestamp: 1765909901470
+model_id: m-2cea8fadb543468c816968675fa2c04a
+model_type: ''
+name: regression_model
+source_run_id: dc4ee3a1ceb54ac7b97bf144b52946a6
+status: 2
+status_message: null

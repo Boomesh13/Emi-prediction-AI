@@ -1,0 +1,15 @@
+creation_timestamp: 1765820997245
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765820997245
+model_id: m-2641faf0e2274738828714791c230449
+name: Logistic_Regression_Classification
+run_id: f6ac616698d64bc4bc37a0ee97f39ffa
+run_link: ''
+source: models:/m-2641faf0e2274738828714791c230449
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/339327899146212825/models/m-2641faf0e2274738828714791c230449/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+creation_timestamp: 1765821734460
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765821734460
+model_id: m-18c60946f67d4b3d80c0560bd61e71a1
+name: XGBoost_Regressor_Regression
+run_id: 08add436a7b446eea435ff9564f2a413
+run_link: ''
+source: models:/m-18c60946f67d4b3d80c0560bd61e71a1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/908098939557329079/models/m-18c60946f67d4b3d80c0560bd61e71a1/artifacts
+user_id: null
+version: 1

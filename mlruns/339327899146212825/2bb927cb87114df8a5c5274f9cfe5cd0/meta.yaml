@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/339327899146212825/2bb927cb87114df8a5c5274f9cfe5cd0/artifacts
+deleted_time: 1765908315175
+end_time: 1765821072191
+entry_point_name: ''
+experiment_id: '339327899146212825'
+lifecycle_stage: deleted
+run_id: 2bb927cb87114df8a5c5274f9cfe5cd0
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765820998401
+status: 3
+tags: []
+user_id: boomesh

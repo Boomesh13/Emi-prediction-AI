@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/346095388058371680
+creation_time: 1765117229305
+experiment_id: '346095388058371680'
+last_update_time: 1765117229305
+lifecycle_stage: active
+name: EMIPredict_Classification_Regression

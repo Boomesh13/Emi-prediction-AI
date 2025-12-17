@@ -1,0 +1,15 @@
+creation_timestamp: 1765821705120
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765821705120
+model_id: m-e58bbcf532b14d158426ca268caf176f
+name: Random_Forest_Regressor_Regression
+run_id: ffa2326f529d4b138c3b0cd0ea9a26c7
+run_link: ''
+source: models:/m-e58bbcf532b14d158426ca268caf176f
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/908098939557329079/models/m-e58bbcf532b14d158426ca268caf176f/artifacts
+user_id: null
+version: 1

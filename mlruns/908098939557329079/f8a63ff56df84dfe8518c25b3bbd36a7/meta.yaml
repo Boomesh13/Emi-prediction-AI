@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/908098939557329079/f8a63ff56df84dfe8518c25b3bbd36a7/artifacts
+deleted_time: 1765908981940
+end_time: 1765821169190
+entry_point_name: ''
+experiment_id: '908098939557329079'
+lifecycle_stage: deleted
+run_id: f8a63ff56df84dfe8518c25b3bbd36a7
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765821151258
+status: 3
+tags: []
+user_id: boomesh

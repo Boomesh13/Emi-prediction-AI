@@ -1,0 +1,15 @@
+creation_timestamp: 1765821149672
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765821149672
+model_id: m-a986292a29f9464da5b4b95a35776dd5
+name: Decision_Tree_Classifier_Classification
+run_id: 58663487fbe54c668f6cb9932f3af716
+run_link: ''
+source: models:/m-a986292a29f9464da5b4b95a35776dd5
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/339327899146212825/models/m-a986292a29f9464da5b4b95a35776dd5/artifacts
+user_id: null
+version: 1

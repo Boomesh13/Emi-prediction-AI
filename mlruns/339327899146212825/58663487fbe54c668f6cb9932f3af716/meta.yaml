@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/339327899146212825/58663487fbe54c668f6cb9932f3af716/artifacts
+deleted_time: 1765908465479
+end_time: 1765821150439
+entry_point_name: ''
+experiment_id: '339327899146212825'
+lifecycle_stage: deleted
+run_id: 58663487fbe54c668f6cb9932f3af716
+run_name: Decision Tree Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765821121311
+status: 3
+tags: []
+user_id: boomesh
